@@ -1,11 +1,11 @@
 ---
-title: One Page Demo Site
+title: 'One Page Demo Site'
 menu: Home
 onpage_menu: false
-body_classes: "modular header-image fullwidth"
-
+body_classes: 'modular header-image fullwidth'
+hide_git_sync_repo_link: true
 content:
-    items: @self.modular
+    items: '@self.modular'
     order:
         by: default
         dir: asc
@@ -15,5 +15,4 @@ content:
             - _callout
             - _features
 ---
-
 
