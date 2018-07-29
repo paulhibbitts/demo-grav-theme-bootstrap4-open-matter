@@ -12,9 +12,9 @@ This is example **modular** page, where content from multiple pages is displayed
 
 [Text](http://wikieducator.org/OER_Handbook/educator_version_one/Conclusion/Glossary) by [http://wikieducator.org/](http://wikieducator.org/), available under a Creative Commons Attribution 4.0 license.  
 
-[plugin:content-inject](/modular/_cc-by)  
-[plugin:content-inject](/modular/_cc-by-sa)  
-[plugin:content-inject](/modular/_cc-by-nc)  
-[plugin:content-inject](/modular/_cc-by-nc-nd)  
-[plugin:content-inject](/modular/_cc-by-nc-sa)  
-[plugin:content-inject](/modular/_cc-by-nd)  
+[plugin:content-inject](/modular-page/_cc-by)  
+[plugin:content-inject](/modular-page/_cc-by-sa)  
+[plugin:content-inject](/modular-page/_cc-by-nc)  
+[plugin:content-inject](/modular-page/_cc-by-nc-nd)  
+[plugin:content-inject](/modular-page/_cc-by-nc-sa)  
+[plugin:content-inject](/modular-page/_cc-by-nd)  
