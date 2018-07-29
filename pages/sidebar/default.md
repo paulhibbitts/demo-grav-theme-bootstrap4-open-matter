@@ -4,8 +4,10 @@ routable: false
 visible: false
 ---
 
-#### Markdown Area
+##### Markdown Area
 
 Some text here.
 
 [plugin:page-inject](/twitterfeed)
+
+[plugin:page-inject](/embedlycard)
