@@ -9,7 +9,7 @@ content:
         dir: desc
     pagination: '1'
 hero_classes: hero-large
-hero_scroll: true
+hero_scroll: false
 hide_page_title: true
 show_sidebar: true
 hide_post_summary: false
@@ -17,11 +17,6 @@ hide_post_date: false
 hide_post_taxonomy: false
 continue_link_as_button: false
 hide_git_sync_repo_link: false
-display_post_summary: false
-blog_url: blog
-sitemap:
-    changefreq: monthly
-    priority: 1.03
 feed:
     description: 'Sample Blog Description'
     limit: 10
